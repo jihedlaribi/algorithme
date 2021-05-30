@@ -20,6 +20,4 @@ BEGIN
         write('number of vowls',num_vow)
         write('number of charachters',num_char)
         write('number of words',num_words+1)
-        
-    END_FOR
 END
